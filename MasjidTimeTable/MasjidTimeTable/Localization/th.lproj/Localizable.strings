@@ -1,0 +1,103 @@
+/*
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Mudassir. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "เบอร์ลา คาร์บอน";
+"Sign In Here" = "ลงชื่อเข้าใช้ที่นี่";
+"Email" = "อีเมล";
+"Password" = "รหัสผ่าน";
+"Need Help?" = "ต้องการความช่วยเหลือใช่ไหม";
+"Sign In" = "ลงชื่อเข้าใช้";
+"Your Ideas" = "ไอเดียของคุณ";
+"New Like" = "การถูกใจใหม่";
+"New Comments" = "ความคิดเห็นใหม่";
+"No FeedBack" = "ไม่มีข้อเสนอแนะ";
+"Submit A New Idea" = "เสนอไอเดียใหม่";
+"Settings" = "การตั้งค่า";
+"Notifications" = "การแจ้งเตือน";
+"Has # of New Likes" = "มี # ของการถูกใจใหม่";
+"Choose your Language" = "เลือกภาษาของคุณ";
+"SUBMIT" = "เสนอ";
+"How to write a good description?" = "วิธีการเขียนคำอธิบายที่ดี";
+"How to catch attention with a well-written idea title?" = "วิธีเรียกความสนใจด้วยหัวเรื่องไอเดียที่ยอดเยี่ยม";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "พยายามให้แน่ใจว่าทุกคนจะสามารถเข้าใจหัวเรื่องไอเดีย และหากเป็นไปได้ควรหลีกเลี่ยงการใช้ศัพท์เฉพาะ นอกจากหัวเรื่องที่สั้นและกระชับแล้ว กรุณาทำให้มีความเฉพาะเจาะจงและน่าสนใจด้วย หัวเรื่องอย่าง การเพิ่มการยึดเกาะโดยจำลองจากเท้าของสัตว์ นั้นดึงดูดความสนใจได้มากกว่าหัวเรื่องทั่วๆ ไปอย่าง ยางที่ดีกว่า";
+"OK" = "ตกลง";
+"Attachments" = "สิ่งที่แนบ";
+"Description" = "คำอธิบาย";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "อธิบายไอเดียของคุณด้วยคำศัพท์ที่ชัดเจนและทุกคนสามารถเข้าใจได้ ชี้ให้เห็นว่าไอเดียจะช่วยแก้ปัญหาได้อย่างไร และอธิบายถึงประโยชน์และความท้าทายทั้งหมดที่จะได้รับ อย่าลังเลที่จะอธิบายถึงปัญหาในการดำเนินงาน เผื่อคนอื่นๆ จะช่วยชี้ให้เห็นถึงจุดด้อยได้ ไม่ใช่ทุกไอเดียที่จะครบถ้วนสมบูรณ์ ดังนั้นโปรดเพิ่มการขอความช่วยเหลือเข้าไปด้วย";
+"Notification Settings" = "การตั้งค่าการแจ้งเตือน";
+"Idea becomes HOT!" = "ไอเดียได้รับความสนใจอย่างมาก!";
+"User comments on my Idea" = "ผู้ใช้งานแสดงความคิดเห็นต่อไอเดียของฉัน";
+"User likes my Idea" = "ผู้ใช้งานชอบไอเดียของฉัน";
+"Language" = "ภาษา";
+"english" = "English";
+"Log out of my account" = "ลงชื่อออกจากบัญชี";
+"Add Main Image" = "เพิ่มภาพหลัก";
+"Title" = "หัวเรื่อง";
+"Title here" = "เพิ่มหัวเรื่องที่นี่";
+"Description" = "คำอธิบาย";
+"Description here" = "เพิ่มคำอธิบายที่นี่";
+"Embed Video" = "วิดีโอที่ฝัง";
+"Attachments" = "สิ่งที่แนบ";
+"Inspirations" = "แรงบันดาลใจ";
+"Audio" = "เสียง";
+"Submit Idea" = "เสนอไอเดีย";
+"Save as draft" = "บันทึกเป็นฉบับร่าง";
+"Saved as draft" = "บันทึกเป็นฉบับร่างแล้ว";
+"Contact Us" = "ติดต่อเรา";
+"TERMS AND CONDITIONS" = "ข้อตกลงและเงื่อนไข";
+"Accept" = "ยอมรับ";
+"Please Choose your Language" = "กรุณาเลือกภาษาของคุณ";
+"Email Required" = "จำเป็นต้องมีอีเมล";
+"Password Required" = "จำเป็นต้องมีรหัสผ่าน";
+"Invalid Email" = "อีเมลไม่ถูกต้อง";
+"No Item Found" = "ไม่พบรายการ";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "แตะค้างเพื่อบันทึก";
+"PRESS PLAY TO REVIEW RECORDING" = "กดเล่นเพื่อตรวจดูการบันทึก";
+"File Deleted Successfully…" = "ลบไฟล์เรียบร้อย...";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "ไอเดียทั้งหมดที่เสนอผ่านแอปพลิเคชันนี้ ('การส่งมอบ') เป็นทรัพย์สินของเบอร์ลา คาร์บอน และผู้ใช้งานตกลงที่จะช่วยเหลือในการส่งมอบและให้สิทธิ์ของทรัพย์สินทางปัญญาที่เป็นผลจากการส่งมอบนั้นๆ แก่บริษัทเบอร์ลา คาร์บอน";
+
+
+
+
+// REMAINING STRINGS
+"new" = "ใหม่";
+"like" = "ชอบ";
+"likes" = "ชอบ";
+"comment" = "คิดเห็น";
+"comments" = "แสดงความคิดเห็น";
+"selected" = "เลือก";
+"Enter Title" = "ใส่ชื่อ";
+"Enter Description" = "ป้อนคำอธิบาย";
+"Choose From Gallery" = "เลือกจากคลังภาพ ";
+"Choose From Camera" = "เลือกจากกล้อง";
+"Select File" = "เลือกไฟล์";
+"Select Image" = "เลือกรูปภาพ";
+"Cancel" = "ยกเลิก";
+"Views"  =  "เข้าชม";
+"Comments" =  "ความคิดเห็น";
+"Likes"  =  "ชอบ";
+"Hot" =  "ร้อน";
+"Recording..." = "การบันทึก...";
+
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";

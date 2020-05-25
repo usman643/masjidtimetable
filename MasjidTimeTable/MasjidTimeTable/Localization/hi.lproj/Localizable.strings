@@ -1,0 +1,102 @@
+/* 
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Mudassir. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "बिड़ला कार्बन";
+"Sign In Here" = "यहाँ साइन इन करें";
+"Email" = "ईमेल";
+"Password" = "पासवर्ड";
+"Need Help?" = "मदद की जरुरत है?";
+"Sign In" = "साइन इन करें";
+"Your Ideas" = "आपके आइडिया";
+"New Like" = "नया लाइक";
+"New Comments" = "नई टिप्पणियां";
+"No FeedBack" = "कोई फीडबैक नही";
+"Submit A New Idea" = "एक नया आइडिया दें";
+"Settings" = "सेटिंग";
+"Notifications" = "नोटिफिकेशन";
+"Has # of New Likes" = "के पास # नया लाइक";
+"Choose your Language" = "अपनी भाषा को चुनें";
+"SUBMIT" = "जमा करें";
+"How to write a good description?" = "एक बेहतरीन विवरण कैसे लिखें?";
+"How to catch attention with a well-written idea title?" = "शानदार टाइटल के साथ लिखा गया आइडिया कैसे ध्यान आकर्षित करता है?";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "यह करने की कोशिश करें कि हर कोई आइडिया के टाइटल को समझ सके और शब्दों के जाल से बचने का प्रयास करें। टाइटल को छोटा और आकर्षक रखते हुए, कृपया इसे विशिष्ट और रोचक भी बनाएं। साधारण टाइटल बढ़िया टायरों  के स्थान पर एक टाइटल जैसे कि जानवरों के पैरों की नकल करते हुए टायर की मजबूत ग्रिप को दिखाना अधिक ध्यान खींचता है। ";
+"OK" = "ओके";
+"Attachments" = "संलग्नक";
+"Description" = "विवरण";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "अपने आइडिया को स्पष्ट शब्दों में बताएं ताकि हर कोई समझ सके। समझायें कि आइडिया चुनौती का हल करने में कैसे मदद कर सकता है और सभी मुख्य लाभों को समझाएं और आपके द्वारा अनुभव की जाने वाली किसी भी चुनौती को भी बताएं। इसके लागू करने में आने वाली समस्याओं को बताने में संकोच न करें; अन्य किसी भी कमजोरियों को दूर करने में मदद करने में सक्षम हो सकते हैं। सभी आइडिया सविस्तार नहीं हैं, इसलिए मदद के लिए अनुरोध शामिल करें।";
+"Notification Settings" = "नोटिफ़िकेशन सेटिंग";
+"Idea becomes HOT!" = "आइडिया HOT हो गया !";
+"User comments on my Idea" = "यूज़र ने  मेरे आइडिया पर टिप्पणी की";
+"User likes my Idea" = "यूज़र मेरे आइडिया को पसंद करते हैं";
+"Language" = "भाषा";
+"english" = "English";
+"Log out of my account" = "मेरे खाते से लॉग आउट करें";
+"Add Main Image" = "मुख्य इमेज जोड़ें";
+"Title" = "टाइटल";
+"Title here" = "टाइटल यहाँ है";
+"Description" = "विवरण";
+"Description here" = "यहाँ वर्णन करें";
+"Embed Video" = "एम्बेड वीडियो";
+"Attachments" = "संलग्नक";
+"Inspirations" = "प्रेरणा";
+"Audio" = "ऑडियो";
+"Submit Idea" = "आइडिया सबमिट करें";
+"Save as draft" = "ड्राफ़्ट के रूप में सेव किया गया";
+"Saved as draft" = "ड्राफ़्ट के रूप में सेव किया गया";
+"Contact Us" = "संपर्क करें";
+"TERMS AND CONDITIONS" = "नियम और शर्तें";
+"Accept" = "स्वीकार करें";
+"Please Choose your Language" = "कृपया अपनी भाषा चुनें";
+"Email Required" = "ईमेल आवश्यक है";
+"Password Required" = "पासवर्ड आवश्यक है";
+"Invalid Email" = "अमान्य ईमेल";
+"No Item Found" = "कोई आइटम नहीं मिला";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "रिकॉर्ड रखने के लिए";
+"PRESS PLAY TO REVIEW RECORDING" = "रिकॉर्डिंग की समीक्षा करने के लिए प्ले दबाएं";
+"File Deleted Successfully…" = "फ़ाइल को सफलतापूर्वक हटा दिया गया ...";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "इस ऐप्लिकेशन ('सबमिशन') के माध्यम से दिए गए सभी आइडिया बिड़ला कार्बन की संपत्ति हैं और उपयोगकर्ता ऐसे किसी भी बौद्धिक संपदा अधिकारों को प्राप्त करने और पूरा करने में बिड़ला कार्बन की सहायता करने के लिए सहमत होते हैं जो इस तरह से दिए गए आइडिया के परिणाम हो सकते हैं।";
+
+
+
+
+// REMAINING STRINGS
+"new" = "नया";
+"like" = "पसंद";
+"likes" = "को यह पसंद है";
+"comment" = "टिप्पणी";
+"comments" = "टिप्पणियाँ";
+"selected" = "चयनित";
+"Enter Title" = "शीर्षक दर्ज करें";
+"Enter Description" = "विवरण दर्ज करें";
+"Choose From Gallery" = "गैलरी से चयन करो";
+"Choose From Camera" = "कैमरा से चुनें";
+"Select File" = "फ़ाइल का चयन करें";
+"Select Image" = "छवि चुने";
+"Cancel" = "रद्द करना";
+"Views"  =  "दृश्य";
+"Comments" =  "टिप्पणियाँ";
+"Likes"  =  "को यह पसंद है";
+"Hot" = "गरम";
+"Recording..." = "रिकॉर्डिंग ...";
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";

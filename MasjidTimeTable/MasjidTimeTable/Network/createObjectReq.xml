@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://hypeinnovation.com/api/servlet/api/schemas/hype/"
+    xsi:schemaLocation="https://birlacarbon-test.hypeinnovation.com/servlet/api/schemas/hype/ https://birlacarbon-test.hypeinnovation.com/servlet/api/schemas/hype/Object.xsd">
+    <id></id>
+    <number></number>
+    <title></title>
+    <objectType id="192.168.10.90:811341853245780">Idea</objectType>
+    <statuses>
+        <status id="192.168.10.90:811341853243228">Community Discussion</status>
+    </statuses>
+    <fields>
+        <textField id="192.168.10.64:821267793405555">
+            <caption>Idea Title</caption>
+            <text>My Idea 62</text>
+        </textField>
+        
+        <textField containsHtml="true" id="192.168.10.64:821267793494217">
+            <caption>Idea Description</caption>
+            <text>&lt;div>
+                &lt;div>
+                &lt;div>
+                &lt;div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Viverra aliquet eget sit amet tellus. Tempus iaculis urna id volutpat lacus laoreet non. Sit amet consectetur adipiscing elit. Lobortis elementum nibh tellus molestie nunc. Lobortis scelerisque fermentum dui faucibus. Integer eget aliquet nibh praesent tristique magna sit. Et malesuada fames ac turpis egestas integer eget aliquet. Faucibus nisl tincidunt eget nullam non nisi est. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Augue eget arcu dictum varius duis at consectetur lorem donec. Est placerat in egestas erat imperdiet sed euismod nisi. Leo vel fringilla est ullamcorper./div>
+                &lt;/div>
+                &lt;/div>
+                &lt;/div></text>
+        </textField>
+        <linkField id="192.168.10.67:891278603373121">
+            <caption>Campaign / Channel</caption>
+            <objects>
+                <object id="2b0dcd3559df67ac547d1ff3d55b1b92" href="https://birlacarbon-test.hypeinnovation.com/servlet/api/objects/2b0dcd3559df67ac547d1ff3d55b1b92" number="Ca-2019-00007">App Submissions</object>
+            </objects>
+        </linkField>
+        <CommunityDiscussion  id="192.168.10.90:811341853243228">
+            <caption>Community Discussion </caption>
+        </CommunityDiscussion>
+        <DiscussionField id="192.168.10.64:821267794865262">
+            <caption>Discussion Field</caption>
+        </DiscussionField>
+        <userField percentsOfBonus="false" id="192.168.10.64:821267792011274">
+            <caption>Contributor(s)</caption>
+            <users>
+                <user id="Azam@sdsol.com" href="https://birlacarbon-test.hypeinnovation.com/servlet/api/objects/5cec40f1847bf4a935575ad49339bb0d">Azam Malik</user>
+            </users>
+        </userField>
+    </fields>
+</object>

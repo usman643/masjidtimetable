@@ -1,0 +1,103 @@
+/*
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Muneeb. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "Birla Carbon";
+"Sign In Here" = "Faça login aqui";
+"Email" = "E-mail";
+"Password" = "Senha";
+"Need Help?" = "Precisa de ajuda?";
+"Sign In" = "Entrar";
+"Your Ideas" = "Suas ideias";
+"New Like" = "Nova curtida";
+"New Comments" = "Novos comentários";
+"No FeedBack" = "Nenhuma opinião";
+"Submit A New Idea" = "Enviar uma nova ideia";
+"Settings" = "Configurações";
+"Notifications" = "Notificações";
+"Has # of New Likes" = "Tem # novas curtidas";
+"Choose your Language" = "Escolha o seu idioma";
+"SUBMIT" = "Enviar";
+"How to write a good description?" = "Como escrever uma boa descrição?";
+"How to catch attention with a well-written idea title?" = "Como chamar atenção com um título de ideia bem escrito?";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "Tente garantir que todos possam entender o título da ideia e evitar jargões onde for possível. Enquanto mantém o título curto e incisivo, por favor, também torne-o específico e interessante. Um título como “Aumentar a firmeza dos pneus imitando patas de animais” chama mais atenção do que um título muito geral, como “Pneus melhores”.";
+"OK" = "OK";
+"Attachments" = "Anexos";
+"Description" = "Descrição";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "Descreva a sua ideia em termos claros para que todos possam entender. Explique como a ideia ajuda a coincidir com o desafio e descreva todos os benefícios-chave e qualquer desafio que você possa perceber. Não hesite em explicar problemas na sua implementação; talvez os outros possam ajudar a identificar qualquer fraqueza. Nem todas as ideias são totalmente elaboradas, então inclua pedidos de ajuda.";
+"Notification Settings" = "Configurações de notificação";
+"Idea becomes HOT!" = "O Idea fica QUENTE!";
+"User comments on my Idea" = "Comentários de usuários no meu Idea";
+"User likes my Idea" = "Curtidas de usuários no meu Idea";
+"Language" = "Idioma";
+"english" = "English";
+"Log out of my account" = "Sair da minha conta";
+"Add Main Image" = "Adicionar imagem principal";
+"Title" = "Título";
+"Title here" = "Título aqui";
+"Description" = "Descrição";
+"Description here" = "Descrição aqui";
+"Embed Video" = "Incorporar vídeo";
+"Attachments" = "Anexos";
+"Inspirations" = "Inspirações";
+"Audio" = "Áudio";
+"Submit Idea" = "Enviar ideia";
+"Save as draft" = "Salvar como rascunho";
+"Saved as draft" = "Salvo como rascunho";
+"Contact Us" = "Entre em contato";
+"TERMS AND CONDITIONS" = "TERMOS E CONDIÇÕES";
+"Accept" = "Aceitar";
+"Please Choose your Language" = "Por favor, escolha o seu idioma";
+"Email Required" = "E-mail obrigatório";
+"Password Required" = "Senha obrigatória";
+"Invalid Email" = "E-mail inválido";
+"No Item Found" = "Nenhum item encontrado";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "SEGURE PARA GRAVAR";
+"PRESS PLAY TO REVIEW RECORDING" = "PRESSIONE REPRODUZIR PARA ANALISAR A GRAVAÇÃO";
+"File Deleted Successfully…" = "Arquivo deletado com sucesso...";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "Todas as ideias enviadas através desta aplicação (“envio”) são de propriedade da Birla Carbon, e o usuário concorda em cooperar em auxiliar a Birla Carbon a adquirir e aperfeiçoar quaisquer direitos de propriedade intelectual que possam resultar de tais envios.";
+
+
+// REMAINING STRINGS
+"new" = "nova";
+"like" = "gostar";
+"likes" = "curtidas";
+"comment" = "Comente";
+"comments" = "comentários";
+"selected" = "selecionada";
+"Enter Title" = "Digite o título";
+"Enter Description" = "Digite Descrição";
+"Choose From Gallery" = "Escolha da Galeria";
+"Choose From Camera" = "Escolha da câmera";
+"Select File" = "Selecione o arquivo";
+"Select Image" = "Selecione a imagem";
+"Cancel" = "Cancelar";
+"Views"  =  "Visualizações";
+"Comments" =  "Comentários";
+"Likes"  =  "Curtidos";
+"Hot" =  "Quente";
+"Recording..." = "Gravação...";
+
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";
+
+

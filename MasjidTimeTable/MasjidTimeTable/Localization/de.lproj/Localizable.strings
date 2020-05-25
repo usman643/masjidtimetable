@@ -1,0 +1,102 @@
+/*
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Mudassir. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "Birla Carbon";
+"Sign In Here" = "Hier anmelden";
+"Email" = "E-Mail";
+"Password" = "Passwort";
+"Need Help?" = "Sie brauchen Hilfe?";
+"Sign In" = "Anmelden";
+"Your Ideas" = "Ihre Ideen";
+"New Like" = "Neuer Like";
+"New Comments" = "Neue Kommentare";
+"No FeedBack" = "Kein Feedback";
+"Submit A New Idea" = "Eine neue Idee einreichen";
+"Settings" = "Einstellungen";
+"Notifications" = "Benachrichtigungen";
+"Has # of New Likes" = "Hat # neue Likes";
+"Choose your Language" = "Wählen Sie Ihre Sprache";
+"SUBMIT" = "Einreichen";
+"How to write a good description?" = "Wie schreibt man eine gute Beschreibung?";
+"How to catch attention with a well-written idea title?" = "Wie kann man mit einem gut geschriebenen Ideentitel Aufmerksamkeit erregen?";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "Versuchen Sie sicherzustellen, dass jeder den Titel der Idee verstehen kann, und vermeiden Sie nach Möglichkeit Fachsprache. Halten Sie den Titel kurz und knackig, achten Sie aber gleichzeitig darauf, dass er spezifisch und interessant ist. Ein Titel wie „Erhöhung der Reifenhaftung durch Nachahmung von Tierfüßen“ ist interessanter als ein sehr allgemeiner Titel wie „Bessere Reifen“.";
+"OK" = "OKAY";
+"Attachments" = "Anhänge";
+"Description" = "Beschreibung";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "Beschreiben Sie Ihre Idee in klaren Worten, die jeder verstehen kann. Erklären Sie, wie die Idee dazu beiträgt, die Herausforderung zu bewältigen, und beschreiben Sie alle wichtigen Vorteile und jegliche Herausforderungen, die Sie möglicherweise sehen. Zögern Sie nicht, Probleme bei der Umsetzung zu erklären; andere können vielleicht helfen, eventuelle Schwächen zu beheben. Nicht alle Ideen sind vollständig ausgearbeitet, weswegen es sinnvoll ist, um Hilfe zu bitten.";
+"Notification Settings" = "Benachrichtigungseinstellungen";
+"Idea becomes HOT!" = "Idee wird HEISS!";
+"User comments on my Idea" = "Ein Benutzer kommentiert meine Idee";
+"User likes my Idea" = "Einem Benutzer gefällt meine Idee";
+"Language" = "Sprache";
+"english" = "English";
+"Log out of my account" = "Von meinem Konto abmelden";
+"Add Main Image" = "Hauptbild hinzufügen";
+"Title" = "Titel";
+"Title here" = "Titel hier";
+"Description" = "Beschreibung";
+"Description here" = "Beschreibung hier";
+"Embed Video" = "Video einbetten";
+"Attachments" = "Anhänge";
+"Inspirations" = "Inspirationen";
+"Audio" = "Ton";
+"Submit Idea" = "Idee einreichen";
+"Save as draft" = "Als Entwurf speichern";
+"Saved as draft" = "Als Entwurf gespeichert";
+"Contact Us" = "Kontakt";
+"TERMS AND CONDITIONS" = "GESCHÄFTSBEDINGUNGEN";
+"Accept" = "Zustimmen";
+"Please Choose your Language" = "Bitte wählen Sie Ihre Sprache";
+"Email Required" = "E-Mail-Adresse benötigt";
+"Password Required" = "Passwort benötigt";
+"Invalid Email" = "Ungültige E-Mail-Adresse";
+"No Item Found" = "Kein Objekt gefunden";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "ZUR AUFNAHME HALTEN";
+"PRESS PLAY TO REVIEW RECORDING" = "DRÜCKEN SIE AUF „PLAY“, UM DIE AUFNAHME ZU ÜBERPRÜFEN";
+"File Deleted Successfully…" = "Datei erfolgreich gelöscht …";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "Alle über diese Plattform eingereichten Ideen („Einreichung“) sind das Eigentum von Birla Carbon. Der Nutzer erklärt sich bereit, zu kooperieren, um Birla Carbon dabei zu unterstützen, die geistigen Eigentumsrechte, die sich aus einer solchen Einreichung ergeben können, zu erlangen und zu vervollständigen.";
+
+
+
+
+// REMAINING STRINGS
+"new" = "new";
+"like" = "like";
+"likes" = "likes";
+"comment" = "comment";
+"comments" = "comments";
+"selected" = "selected";
+"Enter Title" = "Enter Title";
+"Enter Description" = "Enter Description";
+"Choose From Gallery" = "Choose From Gallery";
+"Choose From Camera" = "Choose From Camera";
+"Select File" = "Select File";
+"Select Image" = "Select Image";
+"Cancel" = "Cancel";
+"Views"  =  "Ansichten";
+"Comments" =  "Bemerkungen";
+"Likes"  =  "Likes";
+"Hot" =  "Heiß";
+"Recording..." = "Aufzeichnung...";
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";

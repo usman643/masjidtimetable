@@ -1,0 +1,111 @@
+/* 
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Muneeb. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "Birla Carbon";
+"Sign In Here" = "Sign In Here";
+"Email" = "Email";
+"Password" = "Password";
+"Need Help?" = "Need Help?";
+"Sign In" = "Sign In";
+"Your Ideas" = "Your Ideas";
+"New Like" = "New Like";
+"New Comments" = "New Comments";
+"No FeedBack" = "No FeedBack";
+"Submit A New Idea" = "Submit a New Idea";
+"Settings" = "Settings";
+"Notifications" = "Notifications";
+"Has # of New Likes" = "Has # of New Likes";
+"Choose your Language" = "Choose your Language";
+"SUBMIT" = "SUBMIT";
+"How to write a good description?" = "How to write a good description?";
+"How to catch attention with a well-written idea title?" = "How to catch attention with a well-written idea title?";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires .";
+"OK" = "OK";
+"Attachments" = "Attachments";
+"Description" = "Description";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help.";
+"Notification Settings" = "Notification Settings";
+"Idea becomes HOT!" = "Idea becomes HOT!";
+"User comments on my Idea" = "User comments on my Idea";
+"User likes my Idea" = "User likes my Idea";
+"Language" = "Language";
+"english" = "English";
+"Log out of my account" = "Log out of my account";
+"Add Main Image" = "Add Main Image";
+"Title" = "Title";
+"Title here" = "Title here";
+"Description" = "Description";
+"Description here" = "Description here";
+"Embed Video" = "Embed Video";
+"Attachments" = "Attachments";
+"Inspirations" = "Inspirations";
+"Audio" = "Audio";
+"Submit Idea" = "Submit Idea";
+"Save as draft" = "Save as draft";
+"Saved as draft" = "Saved as draft";
+"Contact Us" = "Contact Us";
+"TERMS AND CONDITIONS" = "TERMS AND CONDITIONS";
+"Accept" = "Accept";
+"Please Choose your Language" = "Please Choose your Language";
+"Email Required" = "Email Required";
+"Password Required" = "Password Required";
+"Invalid Email" = "Invalid Email";
+"No Item Found" = "No Item Found";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "HOLD TO RECORD";
+"PRESS PLAY TO REVIEW RECORDING" = "PRESS PLAY TO REVIEW RECORDING";
+"File Deleted Successfully…" = "File Deleted Successfully…";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission.";
+
+
+// REMAINING STRINGS
+"new" = "new";
+"like" = "like";
+"likes" = "likes";
+"comment" = "comment";
+"comments" = "comments";
+"selected" = "selected";
+"Enter Title" = "Enter Title";
+"Enter Description" = "Enter Description";
+"Choose From Gallery" = "Choose From Gallery";
+"Choose From Camera" = "Choose From Camera";
+"Select File" = "Select File";
+"Select Image" = "Select Image";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"Yes" = "Yes";
+"No" = "No";
+"Are you sure you want to delete your idea?" = "Are you sure you want to delete your idea?";
+"Photos" = "Photos";
+"Videos" = "Videos";
+"Views"  =  "Views";
+"Comments" =  "Comments";
+"Likes"  =  "Likes";
+"Hot" =  "Hot";
+"Recording..." = "Recording...";
+"Validation" = "Validation";
+"selected file must be less than 10MB" = "selected file must be less than 10MB";
+
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";
+
+

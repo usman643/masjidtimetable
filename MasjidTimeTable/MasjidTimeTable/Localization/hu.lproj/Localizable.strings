@@ -1,0 +1,103 @@
+/*
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Mudassir. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "Birla Carbon";
+"Sign In Here" = "Lépjen be itt";
+"Email" = "E-mail";
+"Password" = "Jelszó";
+"Need Help?" = "Segítségre szorul?";
+"Sign In" = "Belépés";
+"Your Ideas" = "Az ön ötletei";
+"New Like" = "Új Like";
+"New Comments" = "Új megjegyzések";
+"No FeedBack" = "Nincs visszajelzés";
+"Submit A New Idea" = "Küldjön be egy új ötletet";
+"Settings" = "Beállítások";
+"Notifications" = "Értesítések";
+"Has # of New Likes" = "# új Like-ot kapott";
+"Choose your Language" = "Válasszon nyelvet";
+"SUBMIT" = "Beküldés";
+"How to write a good description?" = "Hogyan kell jó leírást írni?";
+"How to catch attention with a well-written idea title?" = "Hogyan lehet megragadni a figyelmet egy jól megírt ötletcímmel?";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "Próbálja mindenki által érthető módon megfogalmazni az ötletcímet, és kerülje a zsargonokat, amennyire lehetséges. Legyen a cím rövid és találó, de ugyanakkor lényegre törő és érdekes is. Például 'A kerék tapadásának növelése az állatok lábának utánzásával' jobban felkelti a figyelmet egy általános címnél, mint például a 'Jobb kerekek'.";
+"OK" = "Rendben";
+"Attachments" = "Csatolmányok";
+"Description" = "Leírás";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "Mutassa be ötletét mindenki által érthető módon. Magyarázza el, hogyan segít az ötlet teljesíteni a kihívást, és ismertesse a fontosabb előnyöket és az esetleges kihívásokat, amibe ütközhet. Ne habozzon elmagyarázni a bevezetésével adódó problémákat, mások talán ki tudják küszöbölni a gyengeségeket. Nem minden ötlet teljesen kidolgozott, ezért foglalja bele a segítségkérést is.";
+"Notification Settings" = "Értesítések beállításai";
+"Idea becomes HOT!" = "Az ötlet FORRÓ lesz!";
+"User comments on my Idea" = "Felhasználói hozzászólások az ötletemhez";
+"User likes my Idea" = "Felhasználónak tetszik az ötletem";
+"Language" = "Nyelv";
+"english" = "English";
+"Log out of my account" = "Kilépés a fiókomból";
+"Add Main Image" = "Főkép hozzáadása";
+"Title" = "Cím";
+"Title here" = "Címet ide";
+"Description" = "Leírás";
+"Description here" = "Leírást ide";
+"Embed Video" = "Videó beágyazása";
+"Attachments" = "Csatolmányok";
+"Inspirations" = "Inspirációk";
+"Audio" = "Hang";
+"Submit Idea" = "Ötlet beküldése";
+"Save as draft" = "Mentés vázlatként";
+"Saved as draft" = "Mentve vázlatként";
+"Contact Us" = "Kapcsolatfelvétel";
+"TERMS AND CONDITIONS" = "HASZNÁLATI FELTÉTELEK";
+"Accept" = "Elfogadom";
+"Please Choose your Language" = "Kérjük, válassza ki a nyelvét";
+"Email Required" = "E-mail szükséges";
+"Password Required" = "Jelszó szükséges";
+"Invalid Email" = "Érvénytelen e-mail";
+"No Item Found" = "Nem található tétel";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "FELVÉTELHEZ TARTSA LENYOMVA";
+"PRESS PLAY TO REVIEW RECORDING" = "A FELVÉTEL VISSZANÉZÉSÉHEZ NYOMJA MEG A LEJÁTSZÁST";
+"File Deleted Successfully…" = "Fájl sikeresen törölve…";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "Minden ötlet, amit ezzel az alkalmazással (“beküldés”) küldtek be, a Birla Carbon tulajdonát képezi, és a felhasználó beleegyezik, hogy a Birla Carbonnal együttműködve segít megszerezni és véglegesíteni bármilyen szellemi tulajdoni jogot, ami az ilyen beküldésekből származhat.";
+
+
+
+
+// REMAINING STRINGS
+"new" = "új";
+"like" = "mint";
+"likes" = "kedvel";
+"comment" = "megjegyzés";
+"comments" = "Hozzászólások";
+"selected" = "kiválasztott";
+"Enter Title" = "Írja be a címet";
+"Enter Description" = "Írja be a Leírás menüpontot";
+"Choose From Gallery" = "Válassza a Galéria elemet";
+"Choose From Camera" = "Válassza a Kamera lehetőséget";
+"Select File" = "Válaszd ki a fájlt";
+"Select Image" = "Válassza a Kép lehetőséget";
+"Cancel" = "Megszünteti";
+"Views"  =  "Nézetek";
+"Comments" =  "Hozzászólások";
+"Likes"  =  "Kedveltek";
+"Hot" =  "Forró";
+"Recording..." = "Felvétel..";
+
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";

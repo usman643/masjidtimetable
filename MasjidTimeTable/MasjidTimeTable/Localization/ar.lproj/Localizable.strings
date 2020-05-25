@@ -1,0 +1,102 @@
+/*
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Mudassir. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "بيرلا كربون";
+"Sign In Here" = "قم بتسجيل الدخول هنا";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمة المرور";
+"Need Help?" = "هل تحتاج إلى مساعدة؟";
+"Sign In" = "تسجيل الدخول";
+"Your Ideas" = "أفكارك";
+"New Like" = " تسجيل إعجاب جديد";
+"New Comments" = "تعليقات جديدة";
+"No FeedBack" = "لا توجد ملاحظات";
+"Submit A New Idea" = "تقديم فكرة جديدة";
+"Settings" = "الإعدادات";
+"Notifications" = "الإشعارات";
+"Has # of New Likes" = "لديك # إعجاب جديدة";
+"Choose your Language" = "إختر اللغة";
+"SUBMIT" = "إرسال";
+"How to write a good description?" = "كيف تكتب وصفاً جيداً؟";
+"How to catch attention with a well-written idea title?" = "كيف نلفت الإنتباه بإستخدام عنوان فكرة مكتوبه بشكل جيد؟";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "حاول التأكد من أن الجميع قادر على فهم عنوان الفكرة وتجنب اللغة الاصطلاحية حيثما أمكن. في حين يجب الحفاظ على العنوان قصيراً ومقتضباً،  يرجى جعله دقيقاً و مشوقاً أيضاً. عنوان مثل زيادة قبضة الإطار عن طريق محاكاة أقدام الحيوانات يستدعي إهتماماً أكبر من عنوان عام جداً مثل إطارات أفضل.";
+"OK" = "موافق";
+"Attachments" = "المرفقات";
+"Description" = "الوصف";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "قم بوصف فكرتك بعبارات واضحة يمكن للجميع فهمها.  إشرح كيف تساعد الفكرة في مواجهة العوائق و التحديات  الحاليه، وقم بوصف كل الفوائد الأساسية وأي تحديات قد تواجهها. لا تترد في شرح المشاكل التي تواجه تنفيذها؛ فقد يتمكن الآخرون من المساعدة في معالجة أي نقاط ضعف.  ليست كل الأفكار مفصّلة بشكل كامل، لذا قم بإدراج طلبات للحصول على المساعدة.";
+"Notification Settings" = " إعدادات الإشعارات";
+"Idea becomes HOT!" = " الفكرة رائجة!";
+"User comments on my Idea" = "تعليقات المستخدمين على فكرتي";
+"User likes my Idea" = " المستخدم سجّل إعجاباً بفكرتي";
+"Language" = "اللغة";
+"english" = "English";
+"Log out of my account" = "تسجيل الخروج من حسابي";
+"Add Main Image" = "إضافة صورة رئيسية";
+"Title" = "العنوان";
+"Title here" = "العنوان هنا";
+"Description" = "الوصف";
+"Description here" = "الوصف هنا";
+"Embed Video" = "إدراج فيديو";
+"Attachments" = "المرفقات";
+"Inspirations" = "مصادر الإلهام";
+"Audio" = "الصوت";
+"Submit Idea" = "ارسال  الفكرة";
+"Save as draft" = "حفظ كمسودة";
+"Saved as draft" = "تم الحفظ كمسودة";
+"Contact Us" = "إتصل بنا";
+"TERMS AND CONDITIONS" = "البنود والشروط";
+"Accept" = "قبول";
+"Please Choose your Language" = "يرجى إختيار اللغة";
+"Email Required" = "البريد الإلكتروني مطلوب";
+"Password Required" = "كلمة المرور مطلوبة";
+"Invalid Email" = "بريد إلكتروني غير صالح";
+"No Item Found" = "لم يتم العثور على أي عنصر";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "اضغط باستمرار للتسجيل";
+"PRESS PLAY TO REVIEW RECORDING" = "اضغط زر التشغيل لمراجعة التسجيل";
+"File Deleted Successfully…" = "تم حذف الملف بنجاح…";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "إن كافة الأفكار التي يتم تقديمها عن طريق هذا التطبيق ('التقدي')  هي ملك لبيرلا كربون، ويوافق المستخدم على التعاون لمساعدة بيرلا كربون في الحصول على أي حقوق ملكية فكرية قد تنتج عن مثل هذا الطلب المقدم واستيفاء جميع المقتضيات القانونية.";
+
+
+
+
+// REMAINING STRINGS
+"new" = "جديد";
+"like" = "مثل";
+"likes" = "الإعجابات";
+"comment" = "تعليق";
+"comments" = "تعليقات";
+"selected" = "المحدد";
+"Enter Title" = "أدخل العنوان";
+"Enter Description" = "Enter Description";
+"Choose From Gallery" = "أدخل الوصف";
+"Choose From Camera" = "اختر من الكاميرا";
+"Select File" = "حدد ملف";
+"Select Image" = "اختر صورة";
+"Cancel" = "إلغاء";
+"Views"  =  "الآراء";
+"Comments" =  "تعليقات";
+"Likes"  =  "الإعجابات";
+"Hot" =  "الحار";
+"Recording..." = "تسجيل...";
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";

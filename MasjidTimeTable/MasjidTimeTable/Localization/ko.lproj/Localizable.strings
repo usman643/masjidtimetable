@@ -1,0 +1,107 @@
+/* 
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Muneeb. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "비를라 카본(Birla Carbon)";
+"Sign In Here" = "여기에서 로그인 하시기 바랍니다.";
+"Email" = "이메일";
+"Password" = "비밀번호";
+"Need Help?" = "도움이 필요하신가요?";
+"Sign In" = "로그인 하시기 바랍니다.";
+"Your Ideas" = "여러분의 아이디어들";
+"New Like" = "새로운 좋아요";
+"New Comments" = "새로운 댓글";
+"No FeedBack" = "응답 없음";
+"Submit A New Idea" = "새로운 아이디어를 제출해주시기 바랍니다.";
+"Settings" = "설정";
+"Notifications" = "알림";
+"Has # of New Likes" = "#의 새로운 '좋아요'가 있습니다";
+"Choose your Language" = "언어를 선택하세요";
+"SUBMIT" = "제출";
+"How to write a good description?" = "좋으 설명을 쓰는 방법";
+"How to catch attention with a well-written idea title?" = "좋은 아이디어로 주목을 받는 방법";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "모든 사람이 아이디어 제목을 이해할 수 있게 노력하고 가능한 한 전문 용어의 사용을 피하세요. 제목을 짧고 산뜻하게 유지하면서, 동시에 구체적이고 흥미롭게 만드세요. '동물의 발을 모방하여 타이어 마찰력 올리기' 같은 제목은 '더 나은 타이어'와 같이 매우 일반적인 제목보다 더 많은 관심을 끕니다.";
+"OK" = "확인";
+"Attachments" = "첨부 파일";
+"Description" = "설명";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "모두가 이해할 수 있는 명료한 용어로 아이디어를 설명하세요. 해당 아이디어가 도전 과제를 해결하는 데 어떤 도움이 되는지를 설명하고, 인지하는 모든 핵심 혜택과 도전 과제를 묘사하세요. 해당 아이디어의 구현에 문제가 될 수 있는 상황을 망설이지 말고 설명하세요. 다른 사람들이 약점을 해결하는 데 도움을 줄 수도 있습니다. 모든 아이디어가 완전히 정교하게 만들어지진 않으니 도움 요청을 꼭 포함하세요. ";
+"Notification Settings" = "알림 설정";
+"Idea becomes HOT!" = "아이디어가 뜨고 있습니다!";
+"User comments on my Idea" = "사용자가 나의 아이디어에 댓글을 달았습니다.";
+"User likes my Idea" = "사용자가 나의 아이디어를 좋아합니다";
+"Language" = "언어";
+"english" = "English";
+"Log out of my account" = "내 계정에서 로그아웃하기";
+"Add Main Image" = "이미지 추가";
+"Title" = "제목";
+"Title here" = "제목은 여기에";
+"Description" = "설명";
+"Description here" = "설명은 여기에";
+"Embed Video" = "내장된 동영상";
+"Attachments" = "첨부 파일";
+"Inspirations" = "아이디어";
+"Audio" = "오디오";
+"Submit Idea" = "아이디어를 제출해 주시기 바랍니다.";
+"Save as draft" = "초안으로 저장";
+"Saved as draft" = "초안으로 저장 완료";
+"Contact Us" = "연락처";
+"TERMS AND CONDITIONS" = "이용 약관";
+"Accept" = "수락";
+"Please Choose your Language" = "언어를 선택하세요";
+"Email Required" = "이메일 필요";
+"Password Required" = "비밀번호 필요";
+"Invalid Email" = "잘못된 이메일";
+"No Item Found" = "발견된 항목 없음";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "계속하기";
+"PRESS PLAY TO REVIEW RECORDING" = "재생을 눌러 녹음 파일 검토";
+"File Deleted Successfully…" = "파일을 성공적으로 삭제했습니다…";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "본 애플리케이션으로 제출된 모든 아이디어(이하 '제출')는 비를라 카본(Birla Carbon)의 자산이며, 사용자는 해당 제출로 인한 모든 지적 재산을 획득하고 완벽하게 만드는 과정에서 비를라 카본(Birla Carbon)에 협조하기 위해 협력하기로 동의합니다. ";
+
+
+
+
+// REMAINING STRINGS
+"new" = "새로운";
+"like" = "처럼";
+"likes" = "좋아하는";
+"comment" = "논평";
+"comments" = "코멘트";
+"selected" = "선택된";
+"Enter Title" = "제목을 입력하십시오";
+"Enter Description" = "설명을 입력하십시오";
+"Choose From Gallery" = "갤러리에서 선택";
+"Choose From Camera" = "카메라에서 선택";
+"Select File" = "파일 선택";
+"Select Image" = "이미지 선택";
+"Cancel" = "취소";
+"Views"  =  "견해";
+"Comments" =  "코멘트";
+"Likes"  =  "좋아요";
+"Hot" =  "뜨거운";
+"Recording..." = "녹음...";
+
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";
+
+
+
+

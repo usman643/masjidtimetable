@@ -1,0 +1,102 @@
+/*
+  English.strings
+  NoBolo
+
+  Created by Mudassar Abbas on 9/25/19.
+  Copyright © 2019 Muneeb. All rights reserved.
+*/
+
+// Alert action
+// MARK : - LOGIN SCREEN,FORGOT PASSWORD, SIGNUP SCREEN
+"Birla Carbon" = "博拉炭黑";
+"Sign In Here" = "在此登录";
+"Email" = "电子邮箱";
+"Password" = "密码";
+"Need Help?" = "需要帮忙？";
+"Sign In" = "登录";
+"Your Ideas" = "您的想法";
+"New Like" = "新收到的赞";
+"New Comments" = "新评论";
+"No FeedBack" = "没有反馈";
+"Submit A New Idea" = "提交新想法";
+"Settings" = "设置";
+"Notifications" = "通知";
+"Has # of New Likes" = "新收到#个赞";
+"Choose your Language" = "选择您的语言";
+"SUBMIT" = "提交";
+"How to write a good description?" = "如何撰写好的描述？";
+"How to catch attention with a well-written idea title?" = "如何用一个好的想法标题来吸引注意力？";
+"Try to ensure that everyone can understand the idea title and avoid jargon where possible. While keeping the title short and snappy, please make it also specific and interesting. A title such as Increase tire grip by mimicking animal feet calls for more attention than a very general title such as Better tires ." = "尽量确保每个人都能理解想法标题，并在尽可能避免使用专业术语。在保持标题短小精悍的同时，也要让它具体而有趣。诸如“模仿动物的脚来增加轮胎抓地力”之类的标题要比“更好的轮胎”之类的非常笼统的标题更吸引眼球。";
+"OK" = "好";
+"Attachments" = "附件";
+"Description" = "描述";
+"Describe your idea in clear terms that everyone can understand. Explain how the idea helps to meet the challenge, and describe all key benefits and any challenges you may perceive. Do not hesitate to explain issues to its implementation; others may be able to help address any weaknesses. Not all ideas are fully elaborated, so do include requests for help." = "用清晰易懂的语言描述您的想法。解释这个想法如何帮助您应对挑战，并描述所有关键优势以及您可能遇到的任何挑战。不要犹豫解释有关其实施的问题；其他人也许可以帮助解决任何不足。并不是所有的想法都是详细的，因此也要包括帮助请求。";
+"Notification Settings" = "通知设置";
+"Idea becomes HOT!" = "想法变得热门！";
+"User comments on my Idea" = "用户对我的想法的评论";
+"User likes my Idea" = "用户点赞我的想法";
+"Language" = "语言";
+"english" = "English";
+"Log out of my account" = "退出登录我的账户";
+"Add Main Image" = "添加主图像";
+"Title" = "标题";
+"Title here" = "在此填写标题";
+"Description" = "描述";
+"Description here" = "在此填写描述";
+"Embed Video" = "嵌入视频";
+"Attachments" = "附件";
+"Inspirations" = "灵感";
+"Audio" = "音频";
+"Submit Idea" = "提交想法";
+"Save as draft" = "保存为草稿";
+"Saved as draft" = "已保存为草稿";
+"Contact Us" = "联系我们";
+"TERMS AND CONDITIONS" = "条款和条件";
+"Accept" = "接受";
+"Please Choose your Language" = "请选择您的语言";
+"Email Required" = "需要电子邮箱";
+"Password Required" = "需要密码";
+"Invalid Email" = "无效的电子邮箱";
+"No Item Found" = "未找到项目";
+
+"potugese" = "Português";
+"spanish" = "Español";
+"hungarian" = "Magyar";
+"italian" = "Italiano";
+"arabic" = "عربى";
+"hindi" = "हिन्दी";
+"tamil" = "Tamil";
+"thai" = "ไทย";
+"mandarin" = "普通话";
+"korean" = "한국어";
+"chinese" = "Chinese";
+
+"HOLD TO RECORD" = "按住以录制";
+"PRESS PLAY TO REVIEW RECORDING" = "按下播放以查看录像";
+"File Deleted Successfully…" = "文件已成功删除……";
+"All ideas submitted via this application (“submission”) are the property of Birla Carbon, and the user agrees to cooperate to assist Birla Carbon in obtaining and perfecting any intellectual property rights that may result from such submission." = "通过此应用程序（“提交”）提交的所有想法均为博拉炭黑 (Birla Carbon) 的财产，用户同意配合协助博拉炭黑 (Birla Carbon) 获取并完善因此类提交而可能产生的任何知识产权。";
+
+
+// REMAINING STRINGS
+"new" = "新";
+"like" = "喜欢";
+"likes" = "喜欢";
+"comment" = "评论";
+"comments" = "注释";
+"selected" = "已选";
+"Enter Title" = "输入标题";
+"Enter Description" = "输入说明";
+"Choose From Gallery" = "从图库中选择";
+"Choose From Camera" = "从相机选择";
+"Select File" = "选择文件";
+"Select Image" = "选择图片";
+"Cancel" = "取消";
+"Views"  =  "观看次数";
+"Comments" =  "注释";
+"Likes"  =  "喜欢";
+"Hot" =  "热";
+"Recording..." = "记录...";
+
+"Unfortunately, there are no records of this email. Please contact the email below to create your account now." = "Unfortunately, there are no records of this email. Please contact the email below to create your account now.";
+
+
